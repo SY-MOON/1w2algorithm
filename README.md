@@ -6,6 +6,7 @@
 
 - [x] 1 - https://leetcode.com/problems/running-sum-of-1d-array/
 - [x] 2 - https://leetcode.com/problems/defanging-an-ip-address/
+- [x] 3 - https://leetcode.com/problems/shuffle-the-array/
 
 ##### 2주차
 
