@@ -10,7 +10,7 @@
 
 ##### 2주차
 
-- [ ] 1
+- [x] 1 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
 - [ ] 2
 
 ##### 3주차
