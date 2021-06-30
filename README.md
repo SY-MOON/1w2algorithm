@@ -11,7 +11,7 @@
 ##### 2주차
 
 - [x] 1 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
-- [ ] 2
+- [x] 2 - https://leetcode.com/problems/richest-customer-wealth
 
 ##### 3주차
 
