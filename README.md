@@ -15,7 +15,7 @@
 
 ##### 3주차
 
-- [ ] 1
+- [x] 1 - https://leetcode.com/problems/two-sum/
 - [ ] 2
 
 ##### 4주차
