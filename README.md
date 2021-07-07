@@ -16,7 +16,7 @@
 ##### 3주차
 
 - [x] 1 - https://leetcode.com/problems/two-sum/
-- [ ] 2
+- [x] 2 - https://leetcode.com/problems/reverse-integer
 
 ##### 4주차
 
