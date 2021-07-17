@@ -20,7 +20,7 @@
 
 ##### 4주차
 
-- [ ] 1
+- [x] 1 - https://leetcode.com/problems/concatenation-of-array
 - [ ] 2
 
 ##### 5주차
