@@ -21,7 +21,7 @@
 ##### 4주차
 
 - [x] 1 - https://leetcode.com/problems/concatenation-of-array
-- [ ] 2
+- [x] 2 - https://leetcode.com/problems/build-array-from-permutation/
 
 ##### 5주차
 
