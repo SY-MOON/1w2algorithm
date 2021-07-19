@@ -25,5 +25,5 @@
 
 ##### 5주차
 
-- [ ] 1
+- [x] 1 - https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 - [ ] 2
