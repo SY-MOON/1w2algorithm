@@ -26,4 +26,4 @@
 ##### 5주차
 
 - [x] 1 - https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
-- [ ] 2
+- [x] 2 - https://leetcode.com/problems/number-of-good-pairs
