@@ -27,3 +27,8 @@
 
 - [x] 1 - https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 - [x] 2 - https://leetcode.com/problems/number-of-good-pairs
+
+##### 6주차
+
+- [x] 1 - https://leetcode.com/problems/jewels-and-stones
+- [] 2 -
